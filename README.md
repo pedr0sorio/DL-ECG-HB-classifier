@@ -6,8 +6,6 @@ Signal Preprocessing, CNNs, Residual Learning, Class imbalance, Data syntehsis (
 
 ## Description of contents:
 
-Description of contents:
-
 Kfold_ProjAAI.ipynb
   - Contains the code for training the models with the 3-fold cross validation.
   - Does not contain the code for SMOTE.
