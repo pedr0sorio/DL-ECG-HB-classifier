@@ -4,7 +4,7 @@ Deep learning based ECG heart beat classifier: Detection and classification of p
 ### Key Concepts involved:
 Signal Preprocessing, CNNs, Residual Learning, Class imbalance, Data syntehsis (SMOTE), K-folds Cross Validation.
 
-### Description of contents:
+## Description of contents:
 
 Description of contents:
 
